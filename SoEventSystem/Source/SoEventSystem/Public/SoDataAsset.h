@@ -1,5 +1,6 @@
 #pragma once
 
+
 #include "CoreMinimal.h"
 #include "Engine/DataAsset.h"
 #include "SoDataAsset.generated.h"

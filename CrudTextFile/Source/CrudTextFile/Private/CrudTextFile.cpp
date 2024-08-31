@@ -1,5 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 #include "CrudTextFile.h"
 
 #define LOCTEXT_NAMESPACE "FCrudTextFileModule"
