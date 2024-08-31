@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GameplayTagsButton",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "TheGabmeister",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GameplayTagsButton",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
