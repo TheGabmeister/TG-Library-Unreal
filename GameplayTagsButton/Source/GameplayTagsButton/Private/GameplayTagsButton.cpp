@@ -1,5 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 #include "GameplayTagsButton.h"
 #include "GameplayTagsButtonStyle.h"
 #include "GameplayTagsButtonCommands.h"
